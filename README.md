@@ -53,7 +53,9 @@ Super_Store_Sales_BI_Analysis/
 
 ## 👤 Author
 **Owhondah Oguch Wonukwube**  
-[LinkedIn](#) | [GitHub](https://github.com/Guchi-tech)
+[LinkedIn](www.linkedin.com/in/
+oguchi-owhondah-wonukwube-49175238
+) | [GitHub](https://github.com/Guchi-tech)
 
 ---
 
