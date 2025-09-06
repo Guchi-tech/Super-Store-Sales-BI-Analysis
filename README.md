@@ -24,7 +24,6 @@ The full Executive Summary is available here:
 - Profit Analysis
 - Sales Trends
 
-*(Screenshots will be added here)*
 
 ## 🛠 Tools Used
 - **Power BI** – Data visualization and reporting
